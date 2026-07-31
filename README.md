@@ -46,6 +46,7 @@ I'm a student at UC Berkeley who loves building.
 
 ## Now Playing <img src="https://cdn.simpleicons.org/spotify/1DB954" width="24" alt="Spotify" />
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31van2gzjjuksjlwmvv2rk3lqbl4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true)](https://open.spotify.com/user/31van2gzjjuksjlwmvv2rk3lqbl4)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31van2gzjjuksjlwmvv2rk3lqbl4)
+
 
 ---
