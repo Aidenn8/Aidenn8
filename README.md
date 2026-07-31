@@ -12,6 +12,8 @@ Reach out: aiden.huang@berkeley.edu
 
 <p><a href="https://aidenn8.github.io"><img src="https://img.icons8.com/ios/100/FFFFFF/globe--v1.png" width="40" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/huangaiden"><img src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/aidenhuang80"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/31van2gzjjuksjlwmvv2rk3lqbl4"><img src="https://cdn.simpleicons.org/spotify/1DB954" width="40" alt="Spotify" /></a></p>
 
+<br><br>
+
 
 ## Languages and Tools
 
