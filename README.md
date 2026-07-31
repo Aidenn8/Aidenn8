@@ -6,7 +6,7 @@ I'm a student at UC Berkeley who loves building.
 
 ## Socials
 
-<p><a href="https://aidenn8.github.io"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/external-link.png" width="36" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/huangaiden"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/linkedin.png" width="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/aidenhuang80"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/instagram-new.png" width="36" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/31van2gzjjuksjlwmvv2rk3lqbl4"><img src="https://cdn.simpleicons.org/spotify/1DB954" width="36" alt="Spotify" /></a></p>
+<p><a href="https://aidenn8.github.io"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/domain.png" width="36" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/huangaiden"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/linkedin.png" width="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/aidenhuang80"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/instagram-new.png" width="36" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/31van2gzjjuksjlwmvv2rk3lqbl4"><img src="https://cdn.simpleicons.org/spotify/1DB954" width="36" alt="Spotify" /></a></p>
 
 <br><br>
 
