@@ -30,10 +30,3 @@ I’m a student at UC Berkeley who loves building things!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
-
-## GitHub Stats
-
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenn8&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenn8&layout=compact&theme=github_dark)
