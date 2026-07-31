@@ -2,13 +2,11 @@
 
 # Hey, I'm Aiden Huang 👋
 
-### I'm a student at UC Berkeley who loves building things!
-
 [![Follow](https://img.shields.io/github/followers/Aidenn8?label=Follow&style=social)](https://github.com/Aidenn8)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aidenn8.github.io-2ea44f?style=flat&logo=github)](https://aidenn8.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-huangaiden-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huangaiden)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aidenhuang80)
+[![Instagram](https://img.shields.io/badge/Instagram-@aidenhuang80-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aidenhuang80)
 
 </div>
 
@@ -16,12 +14,12 @@
 
 ## About Me
 
-I’m a student developer interested in software engineering, machine learning, algorithms, and building useful tools.
+I’m a student at UC Berkeley who loves building things!
 
 - Currently working on: **graph algorithms, ML projects, and web apps**
 - Currently learning: **Python, Java, JavaScript, and AI/ML**
 - Ask me about: **algorithms, coding projects, and competitive programming**
-- Reach me: **your-email@example.com**
+- Reach me: **aiden.huang@berkeley.edu**
 
 ---
 
