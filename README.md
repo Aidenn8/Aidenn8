@@ -1,32 +1,48 @@
-<div align="center">
+# Hey, I'm Aiden!
 
-# Hey, I'm Aiden Huang 👋
+## Socials 
 
-[![Follow](https://img.shields.io/github/followers/Aidenn8?label=Follow&style=social)](https://github.com/Aidenn8)
+<p>
+  <a href="https://aidenn8.github.io">
+    <img src="https://cdn.simpleicons.org/googlechrome/white" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/huangaiden">
+    <img src="https://cdn.simpleicons.org/linkedin/white" width="32" />
+  </a>
+  <a href="https://www.instagram.com/aidenhuang80">
+    <img src="https://cdn.simpleicons.org/instagram/white" width="32" />
+  </a>
+  <a href="[https://open.spotify.com/user/YOUR_SPOTIFY_ID](https://open.spotify.com/user/31van2gzjjuksjlwmvv2rk3lqbl4?si=84ffbbf70c814be8)">
+    <img src="https://cdn.simpleicons.org/spotify/white" width="32" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aidenn8.github.io-2ea44f?style=flat&logo=github)](https://aidenn8.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-huangaiden-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huangaiden)
-[![Instagram](https://img.shields.io/badge/Instagram-@aidenhuang80-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aidenhuang80)
+## Languages and Tools
 
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" />
+</p>
+
+## Software
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="38" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="38" />
+</p>
 
 ---
 
-## About Me
+## Now Playing 🎧
 
-I’m a student at UC Berkeley who loves building things!
-
-- Currently working on: **graph algorithms, ML projects, and web apps**
-- Currently learning: **Python, Java, JavaScript, and AI/ML**
-- Ask me about: **algorithms, coding projects, and competitive programming**
-- Reach me: **aiden.huang@berkeley.edu**
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31van2gzjjuksjlwmvv2rk3lqbl4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true)](https://open.spotify.com/user/31van2gzjjuksjlwmvv2rk3lqbl4)
 
 ---
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidenn8&show_icons=true&theme=github_dark)
