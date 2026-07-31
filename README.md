@@ -1,4 +1,4 @@
-# Hey, I'm [Aiden](https://github.com/Aidenn8) :)
+# Hi, I'm [Aiden](https://github.com/Aidenn8) :)
 
 I'm a student at UC Berkeley who loves building!
 
