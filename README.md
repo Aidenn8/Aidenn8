@@ -4,9 +4,11 @@
 
 ### Developer • Builder • Problem Solver
 
-[![GitHub followers](https://img.shields.io/github/followers/Aidenn8?style=social)](https://github.com/Aidenn8)
+[![Follow](https://img.shields.io/github/followers/Aidenn8?label=Follow&style=social)](https://github.com/Aidenn8)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-aidenn8.github.io-2ea44f?style=flat&logo=github)](https://aidenn8.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-huangaiden-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/huangaiden)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-huangaiden-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huangaiden)
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aidenhuang80)
 
 </div>
 
