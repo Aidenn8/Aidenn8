@@ -2,6 +2,8 @@
 
 I'm a student at UC Berkeley who loves building.
 
+Reach out: aiden.huang@berkeley.edu
+
 <br>
 
 ## Socials
