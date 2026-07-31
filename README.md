@@ -1,6 +1,6 @@
-# Hey, I'm [Aiden](https://github.com/Aidenn8)!
+# Hey, I'm [Aiden](https://github.com/Aidenn8) :)
 
-I'm a student at UC Berkeley who loves building.
+I'm a student at UC Berkeley who loves building!
 
 Reach out: aiden.huang@berkeley.edu
 
