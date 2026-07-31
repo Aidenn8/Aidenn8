@@ -2,7 +2,7 @@
 
 # Hey, I'm Aiden Huang 👋
 
-### Developer • Builder • Problem Solver
+### I'm a student at UC Berkeley who loves building things!
 
 [![Follow](https://img.shields.io/github/followers/Aidenn8?label=Follow&style=social)](https://github.com/Aidenn8)
 
